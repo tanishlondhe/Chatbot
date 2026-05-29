@@ -24,3 +24,20 @@ python-dotenv
 # Machine Learning
 numpy
 scikit-learn
+
+groq
+langchain-groq
+sentence-transformers
+chromadb
+pypdf
+python-dotenv
+
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+groq
+pandas
+numpy
+scikit-learn
